@@ -21,9 +21,7 @@ To run this project, you will need to have the following installed:
 
 ### 1. Clone the repository
 
-bash
-git clone https://github.com/your-username/chess-multiplayer.git
-cd chess-multiplayer
+
 
 
 ### 2. Install Dependencies
